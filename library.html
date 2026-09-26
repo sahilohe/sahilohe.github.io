@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bookshelf - Sahil Ohe</title>
+    <meta name="description" content="A personal library of 230+ books, catalogued with covers." />
+    <meta name="author" content="Sahil Ohe" />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/library.css" />
+    <script>
+      try {
+        document.documentElement.setAttribute("data-theme", localStorage.getItem("theme") || "dark");
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="header-top">
+          <img class="header-photo" src="assets/profile.jpg" alt="Sahil Ohe" width="96" height="96" />
+          <h1>Sahil Ohe</h1>
+        </div>
+        <p class="subtitle">Aspiring Mathematician</p>
+        <div class="header-links">
+          <a href="https://github.com/sahilohe" target="_blank" rel="noopener">GitHub</a> /
+          <a href="https://x.com/sahil_ohe" target="_blank" rel="noopener">X</a> /
+          <a href="https://www.linkedin.com/in/sahil-ohe-5840b22a7/" target="_blank" rel="noopener">LinkedIn</a> /
+          <a href="assets/Sahil_Ohe_CV.pdf" target="_blank" rel="noopener">CV</a> /
+          <a href="mailto:sahilohe97@gmail.com">Email</a>
+        </div>
+        <hr class="header-separator" />
+        <nav>
+          <a href="index.html">About</a>
+          <a href="projects.html">Projects &amp; Work</a>
+          <a href="research.html">Research &amp; Notes</a>
+          <a href="library.html" class="active">Bookshelf</a>
+        </nav>
+      </header>
+
+      <main>
+        <h1>Bookshelf</h1>
+        <p>
+          A catalogue of the physical books I own: mostly mathematics, physics,
+          philosophy, and computing, with a shelf of fiction. I read and re-read these;
+          they are the long-form counterpart to the notes elsewhere on this site.
+        </p>
+
+        <div class="library-toolbar" role="group" aria-label="View mode">
+          <button id="view-grid" aria-pressed="true">Grid</button>
+          <button id="view-list" aria-pressed="false">List</button>
+        </div>
+
+        <p class="library-count" id="library-count"></p>
+        <div id="library-main"></div>
+        <p class="library-empty" id="library-empty" hidden>Nothing on this shelf.</p>
+      </main>
+
+      <footer>
+        <div class="footer-content">
+          <div class="copyright">&copy; <span id="year"></span> Sahil Ohe</div>
+          <div class="theme-toggle-container">
+            <div id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" role="button" tabindex="0">
+              <div class="theme-option dark" data-theme="dark">🌙</div>
+              <div class="theme-option light" data-theme="light">☀️</div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/library.js"></script>
+  </body>
+</html>

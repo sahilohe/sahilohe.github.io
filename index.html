@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About - Sahil Ohe</title>
+    <meta name="description" content="Sahil Ohe: software builder, content researcher and aspiring mathematics researcher. Mathematics, computation, quantum computing and explanations." />
+    <meta name="author" content="Sahil Ohe" />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script>
+      try {
+        document.documentElement.setAttribute("data-theme", localStorage.getItem("theme") || "dark");
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="header-top">
+          <img class="header-photo" src="assets/profile.jpg" alt="Sahil Ohe" width="96" height="96" />
+          <h1>Sahil Ohe</h1>
+        </div>
+        <p class="subtitle">Aspiring Mathematician</p>
+        <div class="header-links">
+          <a href="https://github.com/sahilohe" target="_blank" rel="noopener">GitHub</a> /
+          <a href="https://x.com/sahil_ohe" target="_blank" rel="noopener">X</a> /
+          <a href="https://www.linkedin.com/in/sahil-ohe-5840b22a7/" target="_blank" rel="noopener">LinkedIn</a> /
+          <a href="assets/Sahil_Ohe_CV.pdf" target="_blank" rel="noopener">CV</a> /
+          <a href="mailto:sahilohe97@gmail.com">Email</a>
+        </div>
+        <hr class="header-separator" />
+        <nav>
+          <a href="index.html" class="active">About</a>
+          <a href="projects.html">Projects &amp; Work</a>
+          <a href="research.html">Research &amp; Notes</a>
+          <a href="library.html">Bookshelf</a>
+        </nav>
+      </header>
+
+      <main>
+        <h1>About</h1>
+
+        <p>
+          I am an aspiring mathematician and technology enthusiast, self-studying
+          mathematics, CS &amp; quantum physics from India. My aim is to understand how things
+          really work: to pursue explanations rather than credentials, and to spend my
+          time on the questions that seem most worth asking.
+        </p>
+
+        <p>
+          My thinking is shaped by David Deutsch&rsquo;s four strands of explanations and
+          by critical rationalism. Knowledge grows through conjecture and criticism, and
+          the explanations worth keeping are the ones hardest to vary. I am drawn to
+          epistemology, formal systems, computation and quantum theory, and to the strange
+          loops where mathematics, minds and physics meet.
+        </p>
+
+        <p>
+          I learn by building. Each project is an experiment in understanding: a way to
+          test ideas, refine the explanations behind them, and develop better mental
+          models.
+        </p>
+
+        <p><span class="hire">Hire me for doing math, talk &amp; teach explanations, or for building websites.</span></p>
+
+        <h2>Current Focus</h2>
+        <ul class="chip-list" id="focus-list"></ul>
+
+      </main>
+
+      <footer>
+        <div class="footer-content">
+          <div class="copyright">&copy; <span id="year"></span> Sahil Ohe</div>
+          <div class="theme-toggle-container">
+            <div id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" role="button" tabindex="0">
+              <div class="theme-option dark" data-theme="dark">🌙</div>
+              <div class="theme-option light" data-theme="light">☀️</div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/theme.js"></script>
+  </body>
+</html>

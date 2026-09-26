@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Python local preview
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and agent scratch
+*.log
+.tmp/
