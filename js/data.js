@@ -65,6 +65,14 @@ window.SITE_DATA = {
     }
   ],
 
+  haikus: [
+    {
+      lines: ["Autumn winds hot here", "Days pass thinking what to do", "Drink chai more and more"],
+      author: "Sahil Ohe",
+      date: "Sep 28, 2026"
+    }
+  ],
+
   projects: [
     {
       title: "Toward a Grounded Definition of AGI",

@@ -91,6 +91,25 @@
       .join("");
   }
 
+  function renderHaikus() {
+    var host = document.getElementById("haiku-list");
+    if (!host) return;
+    host.innerHTML = (data.haikus || [])
+      .map(function (haiku) {
+        var lines = (haiku.lines || [])
+          .map(function (line) {
+            return "<span>" + esc(line) + "</span>";
+          })
+          .join("");
+        var meta = [haiku.author, haiku.date].filter(Boolean).map(esc).join(" &middot; ");
+        var author = meta
+          ? '<p class="haiku-author">' + meta + "</p>"
+          : "";
+        return '<article class="haiku">' + lines + author + "</article>";
+      })
+      .join("");
+  }
+
   function renderProjects() {
     var host = document.getElementById("project-list");
     if (!host) return;
@@ -127,6 +146,7 @@
     renderCertifications();
     renderSkills();
     renderNotes();
+    renderHaikus();
     renderProjects();
     setYear();
   });
