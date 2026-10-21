@@ -23,6 +23,18 @@ window.SITE_DATA = {
 
   notes: [
     {
+      title: "A Conjecture on Love",
+      href: "essays/love_as_a_theory_arxiv_style.html",
+      summary:
+        "Love can mean becoming attached to a theory of someone. Moving on, on this account, is revising that theory when it no longer fits, rather than forgetting the person."
+    },
+    {
+      title: "Humans, Stories, and Reality",
+      href: "essays/humans_stories_reality.html",
+      summary:
+        "How San Junipero and Upload imagine life after death, and what those stories show about hope, identity, and the difference between a comforting idea and a true one."
+    },
+    {
       title: "Explanatory Power",
       summary:
         "How an explanation such as E=mc² gives a hard-to-vary account of reality rather than merely fitting data, and why understanding matters more than correlation."
@@ -55,6 +67,11 @@ window.SITE_DATA = {
   ],
 
   haikus: [
+    {
+      lines: ["What Zen is, tell me", "In autumn I look to find", "Journey it might be"],
+      author: "Sahil Ohe",
+      date: "Oct 21, 2026"
+    },
     {
       lines: ["Reading in autumn", "Festivals pass one by one", "When am I leaving?"],
       author: "Sahil Ohe",

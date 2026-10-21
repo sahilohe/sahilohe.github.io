@@ -319,6 +319,124 @@ details summary h3 {
   color: var(--text-secondary);
 }
 
+.essay-list-intro {
+  margin: 0 0 1rem;
+}
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.essay-list .note-link:last-child {
+  margin-bottom: 0;
+}
+
+.note-link h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.15em;
+}
+
+.note-link p {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.essay {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.essay-back {
+  margin: 0 0 1.2rem;
+  font-size: 0.92em;
+}
+
+.essay h1 {
+  margin-bottom: 0.4rem;
+}
+
+.essay-origin {
+  margin: 0 0 0.6rem;
+  color: var(--text-secondary);
+  font-size: 0.95em;
+  font-weight: 700;
+}
+
+.essay .abstract {
+  margin: 1.4rem 0 1.8rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent-primary);
+  color: var(--text-secondary);
+}
+
+.essay .abstract p:last-child {
+  margin-bottom: 0;
+}
+
+.essay h2 {
+  font-size: 1.35em;
+  margin-top: 2.2rem;
+}
+
+.essay h3 {
+  font-size: 1.08em;
+  margin-top: 1.6rem;
+}
+
+.essay .callout,
+.essay blockquote {
+  margin: 1.3rem 0;
+  padding: 0.7rem 0 0.7rem 1rem;
+  border-left: 3px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.essay blockquote {
+  font-style: italic;
+}
+
+.essay .table-wrap {
+  overflow-x: auto;
+  margin: 1.2rem 0 1.6rem;
+}
+
+.essay table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92em;
+}
+
+.essay th,
+.essay td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.essay th {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.essay .keywords,
+.essay .note,
+.essay .references {
+  color: var(--text-secondary);
+  font-size: 0.95em;
+}
+
+.essay-toc {
+  margin: 0 0 1.6rem;
+  padding-left: 1.2rem;
+  color: var(--text-secondary);
+}
+
+.essay-toc a {
+  color: inherit;
+}
+
 /* Notes layout */
 .notes-layout {
   display: grid;

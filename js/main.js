@@ -79,7 +79,13 @@
   function renderNotes() {
     var host = document.getElementById("note-grid");
     if (!host) return;
-    host.innerHTML = (data.notes || [])
+    var essays = [];
+    var notes = [];
+    (data.notes || []).forEach(function (note) {
+      if (note.href) essays.push(note);
+      else notes.push(note);
+    });
+    var html = notes
       .map(function (note) {
         return (
           "<details>" +
@@ -89,6 +95,25 @@
         );
       })
       .join("");
+    if (essays.length) {
+      html +=
+        "<details>" +
+        "<summary><h3>Discussion Essays</h3></summary>" +
+        '<div class="collapsible-content essay-list">' +
+        '<p class="essay-list-intro">I discuss a topic with an LLM, revise it heavily, then ask the model to turn the discussion into a paper. These are my current thoughts, and I may not update them often.</p>' +
+        essays
+          .map(function (note) {
+            return (
+              '<article class="note-link">' +
+              '<h3><a href="' + esc(note.href) + '">' + esc(note.title) + "</a></h3>" +
+              "<p>" + esc(note.summary) + "</p>" +
+              "</article>"
+            );
+          })
+          .join("") +
+        "</div></details>";
+    }
+    host.innerHTML = html;
   }
 
   function renderHaikus() {
