@@ -8,17 +8,6 @@ window.SITE_DATA = {
 
   experience: [
     {
-      role: "Technical Lead",
-      org: "Lesgoo Media",
-      location: "Remote",
-      period: "Apr 2026 – Present",
-      points: [
-        "Develop and maintain the company website and backend systems.",
-        "Work with Vanilla JavaScript, Railway, and Cloudflare for web development and deployment.",
-        "Work on projects from requirements through development, deployment, and maintenance."
-      ]
-    },
-    {
       role: "Content Manager",
       org: "Jake Explains",
       location: "Remote",
@@ -66,6 +55,11 @@ window.SITE_DATA = {
   ],
 
   haikus: [
+    {
+      lines: ["Reading in autumn", "Festivals pass one by one", "When am I leaving?"],
+      author: "Sahil Ohe",
+      date: "Oct 21, 2026"
+    },
     {
       lines: ["Autumn winds hot here", "Days pass thinking what to do", "Drink chai more and more"],
       author: "Sahil Ohe",

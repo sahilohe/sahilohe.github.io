@@ -1697,7 +1697,7 @@
  },
  {
   "title": "How Life Imitates Chess",
-  "cat": "Chess",
+  "cat": "Biography & Memoir",
   "formats": [
    "Paperback"
   ],
@@ -2560,7 +2560,7 @@
  },
  {
   "title": "Mind Master",
-  "cat": "Chess",
+  "cat": "Biography & Memoir",
   "formats": [
    "Hardcover"
   ],
@@ -5262,7 +5262,7 @@
   "pages": null,
   "isbn": null,
   "cover": "covers/an-ordinary-life-1f1f30.jpg",
-  "cover_source": "Flipkart",
+  "cover_source": "Penguin Random House",
   "copies": 1,
   "acc": "hsl(14 45% 72%)",
   "acc2": "hsl(14 55% 36%)"
@@ -6616,5 +6616,409 @@
   "copies": 1,
   "acc": "hsl(210 50% 72%)",
   "acc2": "hsl(210 60% 36%)"
+ },
+ {
+  "title": "The Communist Manifesto",
+  "fullTitle": "Penguin Select Classics: The Communist Manifesto: (Original, Unabridged Classic)",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "9815204068"
+  ],
+  "authors": [
+   "Karl Marx",
+   "Friedrich Engels"
+  ],
+  "description": "The 1848 pamphlet arguing that history is a series of class struggles and calling on the working class to overthrow capitalism. This copy is the 2024 Penguin Select Classics paperback.",
+  "desc_source": "",
+  "subjects": [
+   "Political philosophy",
+   "Communism"
+  ],
+  "first_publish": "2024",
+  "publisher": "Penguin Select Classics",
+  "pages": 96,
+  "isbn": "9789815204063",
+  "cover": "covers/the-communist-manifesto-520406.jpg",
+  "cover_source": "Penguin Random House",
+  "copies": 1,
+  "acc": "hsl(32 45% 72%)",
+  "acc2": "hsl(32 55% 36%)"
+ },
+ {
+  "title": "The Genetic Book of the Dead",
+  "fullTitle": "The Genetic Book of the Dead: A Darwinian Reverie",
+  "cat": "Science & Nature",
+  "formats": [
+   "Hardcover"
+  ],
+  "asins": [
+   "0300278095"
+  ],
+  "authors": [
+   "Richard Dawkins"
+  ],
+  "description": "Dawkins reads bodies, behaviour and genes as a record of the worlds an animal's ancestors survived.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Evolution",
+   "Biology"
+  ],
+  "first_publish": "2024",
+  "publisher": "Yale University Press",
+  "pages": 360,
+  "isbn": "9780300278095",
+  "cover": "covers/the-genetic-book-of-the-dead-030027.jpg",
+  "cover_source": "Yale University Press",
+  "copies": 1,
+  "acc": "hsl(49 50% 72%)",
+  "acc2": "hsl(49 58% 38%)"
+ },
+ {
+  "title": "The Gray Lady Winked",
+  "fullTitle": "The Gray Lady Winked: How the New York Times's Misreporting, Distortions and Fabrications Radically Alter History",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "1736703307"
+  ],
+  "authors": [
+   "Ashley Rindsberg"
+  ],
+  "description": "An account of how reporting in the New York Times has shaped, and at times distorted, the historical record.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Journalism",
+   "Media"
+  ],
+  "first_publish": "2021",
+  "publisher": "Midnight Oil Publishers",
+  "pages": 284,
+  "isbn": "9781736703304",
+  "cover": "covers/the-gray-lady-winked-173670.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(38 50% 74%)",
+  "acc2": "hsl(38 58% 40%)"
+ },
+ {
+  "title": "Journey to the Edge of Reason",
+  "fullTitle": "Journey to the Edge of Reason: The Life of Kurt Gödel",
+  "cat": "Biography & Memoir",
+  "formats": [
+   "Hardcover"
+  ],
+  "asins": [
+   "019886633X"
+  ],
+  "authors": [
+   "Stephen Budiansky"
+  ],
+  "description": "A biography of Kurt Gödel, from the Vienna Circle to his years at the Institute for Advanced Study.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Biography",
+   "Mathematics",
+   "Logic"
+  ],
+  "first_publish": "2021",
+  "publisher": "Oxford University Press",
+  "pages": 368,
+  "isbn": "9780198866336",
+  "cover": "covers/journey-to-the-edge-of-reason-019886.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(17 59% 72%)",
+  "acc2": "hsl(17 67% 38%)"
+ },
+ {
+  "title": "The Sovereign Individual",
+  "fullTitle": "The Sovereign Individual: Mastering the Transition to the Information Age",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "0684832720"
+  ],
+  "authors": [
+   "James Dale Davidson",
+   "Lord William Rees-Mogg"
+  ],
+  "description": "On the shift from an industrial society to an information society, and how that shift moves power from states toward individuals. This copy includes the preface by Peter Thiel.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Political economy",
+   "Information age"
+  ],
+  "first_publish": "1997",
+  "publisher": "Touchstone",
+  "pages": 448,
+  "isbn": "9780684832722",
+  "cover": "covers/the-sovereign-individual-068483.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(38 50% 74%)",
+  "acc2": "hsl(38 58% 40%)"
+ },
+ {
+  "title": "Mars and Venus on a Date",
+  "fullTitle": "Mars and Venus on a Date: A Guide to Romance",
+  "cat": "Psychology & Self-Help",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "0091887674"
+  ],
+  "authors": [
+   "John Gray"
+  ],
+  "description": "John Gray's dating guide, in the illustrated edition with the couple on a scooter.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Relationships"
+  ],
+  "first_publish": "1997",
+  "publisher": "Vermilion",
+  "pages": null,
+  "isbn": "9780091887674",
+  "cover": "covers/mars-and-venus-on-a-date-009188.jpg",
+  "cover_source": "Open Library",
+  "copies": 1,
+  "acc": "hsl(249 50% 72%)",
+  "acc2": "hsl(249 58% 38%)"
+ },
+ {
+  "title": "Being Logical",
+  "fullTitle": "Being Logical: A Guide to Good Thinking",
+  "cat": "Philosophy",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "0812971159"
+  ],
+  "authors": [
+   "D. Q. McInerny"
+  ],
+  "description": "A short guide to premises, arguments and the common ways reasoning goes wrong.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Logic"
+  ],
+  "first_publish": "2005",
+  "publisher": "Random House Trade Paperbacks",
+  "pages": 137,
+  "isbn": "9780812971156",
+  "cover": "covers/being-logical-081297.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(201 50% 70%)",
+  "acc2": "hsl(201 58% 36%)"
+ },
+ {
+  "title": "Inventing the Renaissance",
+  "fullTitle": "Inventing the Renaissance: Myths of a Golden Age",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "1035910136"
+  ],
+  "authors": [
+   "Ada Palmer"
+  ],
+  "description": "Ada Palmer argues that the Renaissance's golden-age reputation was built as much by later myth-making as by the period itself.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Renaissance",
+   "History"
+  ],
+  "first_publish": "2026",
+  "publisher": "Apollo",
+  "pages": 768,
+  "isbn": "9781035910137",
+  "cover": "covers/inventing-the-renaissance-103591.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(38 50% 74%)",
+  "acc2": "hsl(38 58% 40%)"
+ },
+ {
+  "title": "Bold Conjectures, Volume I",
+  "fullTitle": "Bold Conjectures, Volume I: Select Interviews of David Deutsch",
+  "cat": "Philosophy",
+  "formats": [],
+  "asins": [
+   "B0G7WDHD3D"
+  ],
+  "authors": [
+   "Logan Chipkin"
+  ],
+  "description": "Interviews with David Deutsch on physics, knowledge and progress, edited by Logan Chipkin.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Epistemology",
+   "Physics"
+  ],
+  "first_publish": "2026",
+  "publisher": "Conjecture Institute",
+  "pages": 633,
+  "isbn": "9798218785666",
+  "cover": "covers/bold-conjectures-volume-i-821878.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(201 50% 70%)",
+  "acc2": "hsl(201 58% 36%)"
+ },
+ {
+  "title": "Lords of the Cosmos",
+  "fullTitle": "Lords of the Cosmos: From Stasis to Stars",
+  "cat": "Physics & Astronomy",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "1544549520"
+  ],
+  "authors": [
+   "Arjun Khemani",
+   "Logan Chipkin"
+  ],
+  "description": "A short history of how static societies give way to progress, written in the light of David Deutsch's ideas.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Progress",
+   "Cosmology"
+  ],
+  "first_publish": "",
+  "publisher": "Conjecture Institute",
+  "pages": null,
+  "isbn": "9781544549521",
+  "cover": "covers/lords-of-the-cosmos-154454.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(3 55% 72%)",
+  "acc2": "hsl(3 63% 38%)"
+ },
+ {
+  "title": "The Art of Doing Science and Engineering",
+  "fullTitle": "The Art of Doing Science and Engineering: Learning to Learn",
+  "cat": "Computing & Technology",
+  "formats": [
+   "Hardcover"
+  ],
+  "asins": [
+   "1732265178"
+  ],
+  "authors": [
+   "Richard W. Hamming"
+  ],
+  "description": "Hamming's lectures on how important scientific and engineering work actually gets done. This copy is the Stripe Press edition, with a foreword by Bret Victor.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Science",
+   "Engineering"
+  ],
+  "first_publish": "2020",
+  "publisher": "Stripe Press",
+  "pages": 432,
+  "isbn": "9781732265172",
+  "cover": "covers/the-art-of-doing-science-and-engineering-173226.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(59 55% 70%)",
+  "acc2": "hsl(59 63% 36%)"
+ },
+ {
+  "title": "Project Hail Mary",
+  "fullTitle": "Project Hail Mary",
+  "cat": "Fiction",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "1529157468"
+  ],
+  "authors": [
+   "Andy Weir"
+  ],
+  "description": "An astronaut wakes alone on a ship, with no memory of a mission to save the Earth.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Science fiction"
+  ],
+  "first_publish": "2021",
+  "publisher": "Penguin",
+  "pages": 496,
+  "isbn": "9781529157468",
+  "cover": "covers/project-hail-mary-152915.jpg",
+  "cover_source": "Penguin",
+  "copies": 1,
+  "acc": "hsl(3 62% 72%)",
+  "acc2": "hsl(3 70% 38%)"
+ },
+ {
+  "title": "Technology, Communism, and the Brown Scare",
+  "fullTitle": "Technology, Communism, and the Brown Scare",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Ebook"
+  ],
+  "asins": [
+   "B01E4U2ZL8"
+  ],
+  "authors": [
+   "Mencius Moldbug"
+  ],
+  "description": "Mencius Moldbug's 2013 essay on why the hunt for fascists outlives the fascists.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Political philosophy"
+  ],
+  "first_publish": "2013",
+  "publisher": "Unqualified Reservations",
+  "pages": 29,
+  "isbn": null,
+  "cover": "covers/technology-communism-and-the-brown-scare-b01e4u.jpg",
+  "cover_source": "Amazon",
+  "copies": 1,
+  "acc": "hsl(38 50% 74%)",
+  "acc2": "hsl(38 58% 40%)"
+ },
+ {
+  "title": "Crime and Punishment",
+  "fullTitle": "Crime and Punishment",
+  "cat": "Fiction",
+  "formats": [
+   "Paperback"
+  ],
+  "asins": [
+   "9386538059"
+  ],
+  "authors": [
+   "Fyodor Dostoevsky"
+  ],
+  "description": "Raskolnikov, a poor student in St. Petersburg, murders a pawnbroker and then cannot escape his own guilt.",
+  "desc_source": "Catalogue note",
+  "subjects": [
+   "Classic literature",
+   "Russian literature"
+  ],
+  "first_publish": "2016",
+  "publisher": "Fingerprint Publishing",
+  "pages": 584,
+  "isbn": "9789386538055",
+  "cover": "covers/crime-and-punishment-938653.jpg",
+  "cover_source": "Fingerprint Publishing",
+  "copies": 1,
+  "acc": "hsl(3 62% 72%)",
+  "acc2": "hsl(3 70% 38%)"
  }
 ]
