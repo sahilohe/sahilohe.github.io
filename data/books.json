@@ -7020,5 +7020,34 @@
   "copies": 1,
   "acc": "hsl(3 62% 72%)",
   "acc2": "hsl(3 70% 38%)"
+ },
+ {
+  "title": "The Network State",
+  "fullTitle": "The Network State: How To Start a New Country",
+  "cat": "History, Politics & Society",
+  "formats": [
+   "Ebook"
+  ],
+  "asins": [
+   "B09VPKZR3G"
+  ],
+  "authors": [
+   "Balaji S. Srinivasan"
+  ],
+  "description": "Technology has enabled us to start new companies, new communities, and new currencies. But can we use it to start new cities, or even new countries? This book explains how to build the successor to the nation state, a concept we call the network state.",
+  "desc_source": "thenetworkstate.com",
+  "subjects": [
+   "Politics",
+   "Technology"
+  ],
+  "first_publish": "2022",
+  "publisher": "1729",
+  "pages": null,
+  "isbn": null,
+  "cover": "covers/the-network-state.png",
+  "cover_source": "thenetworkstate.com",
+  "copies": 1,
+  "acc": "hsl(38 50% 74%)",
+  "acc2": "hsl(38 58% 40%)"
  }
 ]

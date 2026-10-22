@@ -122,19 +122,15 @@ window.SITE_DATA = {
   skills: [
     {
       category: "Programming",
-      items: ["Python", "Haskell", "Wolfram Language", "JavaScript"]
+      items: ["Python", "Haskell", "Wolfram Language"]
     },
     {
       category: "Research & Writing",
-      items: ["Mathematics", "Content Research", "Technical Writing"]
+      items: ["Mathematics", "Content Research"]
     },
     {
       category: "Quantum Computing",
       items: ["Qiskit", "Quantum Computing"]
-    },
-    {
-      category: "Web & Deployment",
-      items: ["Vanilla JavaScript", "Railway", "Cloudflare", "HTML & CSS"]
     },
     {
       category: "Tools",
