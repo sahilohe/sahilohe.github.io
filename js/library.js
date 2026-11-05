@@ -22,9 +22,8 @@
   ];
 
   var CATEGORY_ORDER = [
-    "Mathematics",
-    "Physics & Astronomy",
     "Science & Nature",
+    "Physics & Astronomy",
     "Computing & Technology",
     "Philosophy",
     "History, Politics & Society",
@@ -35,6 +34,7 @@
     "Wellbeing & Eastern Wisdom",
     "Biography & Memoir",
     "Chess",
+    "Mathematics",
     "Fiction",
     "Psychology & Self-Help"
   ];

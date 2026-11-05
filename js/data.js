@@ -102,6 +102,13 @@ window.SITE_DATA = {
       link: "https://lesgoomedia.com"
     },
     {
+      title: "Lesgoo Academy",
+      category: "Web",
+      status: "To be live soon",
+      summary:
+        "Designed and built the whole website, from the design through the backend integrations."
+    },
+    {
       title: "Jake or Fake",
       category: "Web",
       status: "Live",
