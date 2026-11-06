@@ -133,6 +133,13 @@ window.SITE_DATA = {
       summary:
         "A full-stack website for an agricultural products business; recently launched and under development.",
       link: "https://uniqueagrotech.in"
+    },
+    {
+      title: "Durva Adumyan",
+      category: "Web",
+      status: "Live",
+      summary: "Built and designed the personal portfolio website.",
+      link: "https://durvalogy.up.railway.app/"
     }
   ],
 
