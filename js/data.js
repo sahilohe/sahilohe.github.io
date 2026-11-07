@@ -8,16 +8,6 @@ window.SITE_DATA = {
 
   experience: [
     {
-      role: "Teaching Assistant",
-      org: "Liminal Math",
-      period: "Nov 2026 – Present",
-      points: [
-        "Assist with teaching in the live lectures, covering Olympiad-level mathematics.",
-        "Prepare and provide problem sets.",
-        "Verify the solutions."
-      ]
-    },
-    {
       role: "Content Manager",
       org: "Jake Explains",
       location: "Remote",
