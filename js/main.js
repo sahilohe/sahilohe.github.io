@@ -32,13 +32,16 @@
           })
           .join("");
         var meta = [job.location, job.period].filter(Boolean).join(" · ");
+        var org = job.url
+          ? '<a href="' + esc(job.url) + '" target="_blank" rel="noopener">' + esc(job.org) + "</a>"
+          : esc(job.org);
         return (
           '<article class="job">' +
           '<div class="job-head">' +
           "<h3>" + esc(job.role) + "</h3>" +
           '<span class="job-period">' + esc(meta) + "</span>" +
           "</div>" +
-          '<p class="job-org">' + esc(job.org) + "</p>" +
+          '<p class="job-org">' + org + "</p>" +
           '<ul class="job-points">' + points + "</ul>" +
           "</article>"
         );

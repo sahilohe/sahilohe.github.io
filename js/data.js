@@ -10,6 +10,7 @@ window.SITE_DATA = {
     {
       role: "Teaching Assistant / Media & Marketing Lead",
       org: "Liminal Math",
+      url: "https://www.liminalmath.com/",
       location: "Remote",
       period: "Present",
       points: [
@@ -20,6 +21,7 @@ window.SITE_DATA = {
     {
       role: "Content Manager",
       org: "Jake Explains",
+      url: "https://jakeexplains.com/",
       location: "Remote",
       period: "Aug 2025 – Jul 2026",
       points: [
