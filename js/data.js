@@ -8,6 +8,16 @@ window.SITE_DATA = {
 
   experience: [
     {
+      role: "Teaching Assistant / Media & Marketing Lead",
+      org: "Liminal Math",
+      location: "Remote",
+      period: "Present",
+      points: [
+        "Teaching Assistant for Olympiad Math problems.",
+        "Watching over the progress of Media Content and Marketing."
+      ]
+    },
+    {
       role: "Content Manager",
       org: "Jake Explains",
       location: "Remote",
